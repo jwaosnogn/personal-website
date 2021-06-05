@@ -1,0 +1,16 @@
+html, body, #___gatsby, #gatsby-focus-wrapper {
+	height: 100%;
+}
+
+body {
+  background-image: linear-gradient(180deg, #00349d, #0055ff);
+  color: white;
+  text-align: center;
+	margin: 0px;
+}
+
+#gatsby-focus-wrapper {
+	display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
