@@ -1,14 +1,24 @@
+header {
+  font-family: 'streetbrush';
+}
+
 a {
   color: white;
+  text-decoration: none;
+  border-bottom: 2px solid #4197ff;
 }
 
 .header {
-  font-size: 5rem;
+  font-size: 10rem;
 }
 
 .header-letter {
   display: inline-block;
   margin: 0;
+}
+
+.title, .navigation {
+  font-family: 'PT Serif';
 }
 
 .title {
@@ -25,10 +35,12 @@ a {
 }
 
 .navigation-list-item {
+  font-size: 1rem;
   display: inline-block;
 }
 
 .navigation-list-item::after {
+  color: #4197ff;
   content: "·";
   margin: .5rem;
 }

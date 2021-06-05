@@ -17,15 +17,17 @@ const IndexPage = () => (
       <p className="header-letter header-letter--5">n</p>
     </header>
     <p className="title">
-      Full Stack Software Engineer at{" "}
-      <a href="https://www.gocurrency.com/" target="_blank">
-        Currency Capital
-      </a>
+      <i>
+        Full Stack Software Engineer at{" "}
+        <a href="https://www.gocurrency.com/" target="_blank">
+          Currency Capital
+        </a>
+      </i>
     </p>
     <nav className="navigation">
       <ul className="navigation-list">
         <li className="navigation-list-item navigation-list-item--1">
-          <a href="https://github.com/jwaosnogn" target="_blank">Github</a>
+          <a href="https://github.com/jwaosnogn" target="_blank">GitHub</a>
         </li>
         <li className="navigation-list-item navigation-list-item--2">
           <a href="https://www.linkedin.com/in/jwong1995" target="_blank">LinkedIn</a>
