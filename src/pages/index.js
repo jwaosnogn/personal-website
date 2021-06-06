@@ -26,14 +26,17 @@ const IndexPage = () => (
     </p>
     <nav className="navigation">
       <ul className="navigation-list">
-        <li className="navigation-list-item navigation-list-item--1">
+        <li className="navigation-list-item">
           <a href="https://github.com/jwaosnogn" target="_blank">GitHub</a>
         </li>
-        <li className="navigation-list-item navigation-list-item--2">
+        <li className="navigation-list-item">
           <a href="https://www.linkedin.com/in/jwong1995" target="_blank">LinkedIn</a>
         </li>
-        <li className="navigation-list-item navigation-list-item--3">
+        <li className="navigation-list-item">
           <a href="https://jwaosnogn.github.io/Jason%20Wong%20Resume.pdf">Resume</a>
+        </li>
+        <li className="navigation-list-item">
+          <a href="mailto:jwaosnogn@gmail.com">Email</a>
         </li>
       </ul>
     </nav>
