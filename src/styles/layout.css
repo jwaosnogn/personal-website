@@ -114,3 +114,19 @@ a {
   animation-name: appear-and-slide-in;
   animation-duration: 4s;
 }
+
+@media (max-width: 375px) {
+  .header {
+    font-size: 5rem;
+  }
+
+  .title {
+    font-size: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .navigation-list-item {
+    font-size: 0.75rem;
+  }
+}

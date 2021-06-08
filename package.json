@@ -34,7 +34,7 @@
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "preload-fonts": "gatsby-preload-fonts",
     "serve": "gatsby serve",
-    "start": "npm run develop",
+    "start": "yarn develop",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "repository": {
