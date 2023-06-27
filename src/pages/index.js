@@ -19,8 +19,8 @@ const IndexPage = () => (
     <p className="title">
       <i>
         Full Stack Software Engineer at{" "}
-        <a href="https://www.gocurrency.com/" target="_blank" rel="noreferrer noopener">
-          Currency Capital
+        <a href="https://route.com/" target="_blank" rel="noreferrer noopener">
+          Route
         </a>
       </i>
     </p>
